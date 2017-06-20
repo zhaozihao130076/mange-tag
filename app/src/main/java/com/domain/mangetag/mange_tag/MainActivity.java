@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("zzh","main");
         Log.d("zzh","2");
         Log.d("zzh","tag");
+        Log.d("zzh","hotfix1");
     }
 }
